@@ -72,3 +72,9 @@ SELECT * FROM employee
 	</tr>
 	<tbody>
 </table>
+
+
+## Resource 
+* https://docs.oracle.com/
+* https://www.tutorialspoint.com/sql/sql-where-clause
+* https://data-flair.training/blogs/clause-in-sql/
