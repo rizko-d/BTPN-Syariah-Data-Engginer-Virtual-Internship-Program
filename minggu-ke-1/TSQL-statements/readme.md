@@ -79,3 +79,8 @@ SELECT MAX(nama_kolom) FROM nama_tabel WHERE kondisi</td>
 	</tr>
 	<tbody>
 </table>
+
+## Resource 
+* https://www.jogjahost.co.id/blog/apa-itu-query-sql/
+* https://idcloudhost.com/panduan-sql-fungsi-cara-kerja-serta-perintah-dasarnya/
+* https://www.it-jurnal.com/tipe-data-pada-database-sql/
