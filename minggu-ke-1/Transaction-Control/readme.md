@@ -6,7 +6,7 @@
 * Kasus Transaction Control 
 
 ### Memahami konsep Transaction Control 
-<img src="">
+<img src="https://github.com/rizko-d/BTPN-Syariah-Data-Engginer-Virtual-Internship-Program/blob/main/minggu-ke-1/Transaction-Control/1.jpg">
 
 ### Implementasi Transaction Control 
 * Batch Processing, dimana baris, dan isi didalam table harus berubah dalam satu kesatuan 
@@ -23,5 +23,5 @@
 * Begin Transaction, Menyatakan statement transaksi dimulai
 * Commit, Pernyataan untuk perubahan di Transaksi.
 * Rollback, Pernyataan untuk transaksi yang gagal.
-<img src="">
+<img src="https://github.com/rizko-d/BTPN-Syariah-Data-Engginer-Virtual-Internship-Program/blob/main/minggu-ke-1/Transaction-Control/2.jpg">
 
