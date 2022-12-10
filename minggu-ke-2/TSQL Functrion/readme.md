@@ -1,7 +1,12 @@
 ## T-SQL Function
+> Fungsi adalah metode yang digunakan untuk melakukan operasi data. TSQL memiliki banyak fungsi bawaan yang digunakan untuk melakukan rangkaian string, perhitungan matematis, dan lain-lain. Fungsi TSQL dikategorikan ke dalam dua kategori, yaitu fungsi agregat dan fungsi skala
+
 
 <table>
 	<caption>Fungsi Agregat</caption>
+	<captopn>Fungsi Agregat dalam TSQL melakukan perhitungan pada sekelompok nilai dan 
+kemudian mengembalikan satu nilai. Berikut ini adalah beberapa fungsi agregat yang 
+paling umum digunakan:</caption
 	<thead>
 	<tr>
 		<th>Function</th>
@@ -50,6 +55,10 @@ dalam pernyataan SELECT</td>
 
 <table>
 	<caption>Fungsi Skalar</caption>
+	<caption>Fungsi Skalar dalam TSQL digunakan untuk mengembalikan nilai tunggal dari nilai 
+input yang diberikan. Berikut ini adalah beberapa fungsi skalar yang paling umum 
+digunakan:
+</caption>
 	<thead>
 	<tr>
 		<th>Function</th>
@@ -94,3 +103,10 @@ terdekat</td>
 	</tr>
 	<tbody>
 </table>
+
+
+### Resource 
+
+* https://www.geeksforgeeks.org/sql-functions-aggregate-scalar-functions/
+* https://www.edureka.co/blog/sql-functions
+* https://www.w3schools.com/sql/sql_ref_sqlserver.asp
