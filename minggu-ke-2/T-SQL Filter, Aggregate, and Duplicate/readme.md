@@ -1,9 +1,10 @@
 ## T-SQL Filter, Aggregate, and Duplicate
 
 <table>
-	<caption>Filter</caption> <br>
-  <caption>Filter digunakan untuk melakukan subset item data dari database Beberapa 
-  filter yang sering digunakan :</caption>
+	<caption>Filter</caption> 
+	<br>
+  	<caption>Filter digunakan untuk melakukan subset item data dari database Beberapa 
+ 	 filter yang sering digunakan :</caption>
 	<thead>
 	<tr>
 		<th>Operator</th>
@@ -48,7 +49,8 @@
 <br>
 
 <table>
-	<caption>Aggregate</caption> <br>
+	<caption>Aggregate</caption>
+	 <br>
   <caption>Agregat dalam TSQL melakukan perhitungan pada sekelompok nilai dan kemudian 
   mengembalikan satu nilai. Berikut ini adalah beberapa fungsi agregat yang paling 
   umum digunakan</caption>
@@ -98,7 +100,8 @@
 <br>
 
 <table>
-	<caption>Duplicat</caption> <br>
+	<caption>Duplicat</caption>
+	<br>
   <caption>Duplicate dalam TSQL merupakan terdapat dua atau lebih data yang sama. Kita dapat 
   menghapus duplicate dengan menggunakan beberapa perintah berikut :</caption>
 	<thead>
