@@ -50,3 +50,6 @@ garis penghubung antara entitas. Relasi memiliki beberapa jenis yaitu :
        entitas dan sebaliknya. 
    * c. Many to Many : setiap entitas bisa mempunyai relasi dengan 
       entitas lain, dan sebaliknya.
+      
+## Referensi :
+https://www.dewaweb.com/blog/entity-relationship-diagram
